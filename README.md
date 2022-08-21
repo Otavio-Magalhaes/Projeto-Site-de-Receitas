@@ -1,4 +1,4 @@
-# AdoPet
+# Projeto de receitas
 ### Projeto (em desenvolvimento)
 
 ## site receitas
