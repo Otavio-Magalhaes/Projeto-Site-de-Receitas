@@ -1,0 +1,51 @@
+
+
+.imagem-carrosel-um{
+    object-fit: cover;
+    height: 68vh;
+    object-position: 0 75% ;
+}
+
+.imagem-carrosel-dois{
+    object-fit: cover;
+    height: 68vh;
+}
+
+.fonte-titulo{
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial{
+    color: darkred!important;
+    
+}
+
+.botao-cor-especial{
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial{
+    border-color: darkred;
+}
+
+.card-largura-imaem{
+    width: 1000px;
+}
+
+.card-posicao-imagem{
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-largura{
+    max-width: 18rem;
+}
+
+.texto-link{
+    text-decoration: none;
+}
+
+.texto-link:hover{
+    text-decoration: underline;
+}
