@@ -6,7 +6,10 @@ um site de receitas de todos os tipos feito para os amantes da Culinaria.
 
 
 ## Público alvo
-Todas as pessoas que estejam disponíveis para testar as receitas.
+Pessoas que gostam de cozinhar.
+
+## Receita culinária
+A receita culinária fornece todo passo a passo para que uma pessoa possa sair do zero até ter um prato específico pronto, de modo que são postos instruções seguidos com imagens para que as pessoas possam seguir a receita.
 
 ## Recursos utilizados
 
