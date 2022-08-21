@@ -2,10 +2,11 @@
 ### Projeto (em desenvolvimento)
 
 ## site receitas
-um site fde receitas de todos os tipos, para todas as idades
+um site de receitas de todos os tipos feito para os amantes da Culinaria.
+
 
 ## Público alvo
-Todas as pessoas que estejam disponiveis para testas as receitas
+Todas as pessoas que estejam disponíveis para testar as receitas.
 
 ## Recursos utilizados
 
