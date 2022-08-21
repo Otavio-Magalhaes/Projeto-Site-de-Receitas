@@ -14,6 +14,10 @@ Todas as pessoas que estejam disponíveis para testar as receitas.
 * CSS
 * Bootstrap
 
+## Link para o Site
+
+<a href="https://otavio-magalhaes.github.io/Projeto-Site-de-Receitas/" target="_blank">Site</a>
+
 ## Autor
 
 [<img src="https://avatars.githubusercontent.com/u/103613657?s=400&u=cb1f3a757cdadbcee0d44ff247a67cbf2cc609b9&v=4" width=115><br><sub>Otavio Magalhães</sub>](https://github.com/Otavio-Magalhaes)
